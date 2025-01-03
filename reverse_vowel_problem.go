@@ -28,9 +28,4 @@ func ReverseVowelProblemLeetcode345(s string) string {
 
 }
 
-func main() {
-	input := "IceCreAm"
-	result := ReverseVowelProblemLeetcode345(input)
-	print(result)
 
-}
